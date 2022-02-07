@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = talita.chapuis@gmail.com
+	name = talita chapuis
